@@ -1,6 +1,6 @@
 # Aakash Pandey | Software Engineer & AI Developer
 
-[![Live Demo](https://my-portfolio-five-jade-i4qwaplymg.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-View_Site-38bdf8?style=for-the-badge)](https://my-portfolio-five-jade-i4qwaplymg.vercel.app/)
 
 A high-performance, interactive 3D portfolio showcasing my work across Artificial Intelligence, Large Language Models (LLMs), and cloud-scalable software engineering. 
 
